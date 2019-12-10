@@ -1,4 +1,4 @@
-## Djando with PostgreSQL using Docker
+## Django with PostgreSQL using Docker
 
 #### The idea of this project is can init of the easy way and quickly a project right from the start using as database engine PostgreSQL.
 #### The arrangement of folders and the way as create the project may vary depend of needs.
